@@ -1,6 +1,6 @@
 T-MED Dataset
 
-T-MED is a teacher multimodal sentiment analysis dataset release (accepted to AAAI).
+T-MED is a teacher multimodal sentiment analysis dataset release (accepted to AAAI2026).
 This release provides transcripts (text), extracted RoBERTa/HuBERT features, instructional information (subject & stage), and sentiment labels (8 classes).
 
 Download
