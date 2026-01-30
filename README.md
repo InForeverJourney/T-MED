@@ -41,3 +41,12 @@ Citation
 If the AAAI proceedings version is available, please cite the official AAAI publication.
 Otherwise, please cite the arXiv preprint.
 
+(Versioning Notes
+
+The dataset is released in two versions with different feature granularities.
+
+- v1.0 provides pooled, sample-level representations and is directly hosted in this repository.
+- v2.0 provides time-step-level representations with substantially larger storage requirements
+  and is therefore distributed via an external link.)
+
+
