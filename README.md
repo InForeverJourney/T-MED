@@ -6,8 +6,7 @@ This release provides transcripts (text), extracted RoBERTa/HuBERT features, ins
 Download
 - Baidu Netdisk (CN mirror): http://...
   - Extraction code: xxxx
-- Version: v1.0
-- SHA256: (to be added)
+- Version: v1.0 and v2.0
 
 What is Included in This Release
 This release provides **PKL files** containing:
@@ -45,7 +44,7 @@ Otherwise, please cite the arXiv preprint.
 
 The dataset is released in two versions with different feature granularities.
 
-- v1.0 provides pooled, sample-level representations and is directly hosted in this repository.
+- v1.0 provides pooled, sample-level representations .
 - v2.0 provides time-step-level representations with substantially larger storage requirements
   and is therefore distributed via an external link.)
 
