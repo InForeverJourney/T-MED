@@ -4,8 +4,8 @@ T-MED is a teacher multimodal sentiment analysis dataset release (accepted to AA
 This release provides transcripts (text), extracted RoBERTa/HuBERT features, instructional information (subject & stage), and sentiment labels (8 classes).
 
 Download
-- Baidu Netdisk (CN mirror): http://...
-  - Extraction code: xxxx
+- Baidu Netdisk (CN mirror): https://pan.baidu.com/s/1viLRTNDrDU21AZVxfBwoww?pwd=2111
+  - Extraction code: 2111
 - Version: v1.0 and v2.0
 
 What is Included in This Release
