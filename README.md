@@ -26,7 +26,7 @@ Each sample contains:
 - `label`: sentiment label (8 classes)
 
 Raw Audio/Video (By Request)
-If you need the raw audio/video for further research, please contact the authors by email.
+If you need the raw audio/video for further research, please contact the authors by email ( wangxr@mail.imu.edu.cn ).
 
 Suggested information to include in your email:
 - Name & affiliation
