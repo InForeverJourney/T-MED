@@ -48,4 +48,10 @@ The dataset is released in two versions with different feature granularities.
 - v2.0 provides time-step-level representations with substantially larger storage requirements
   and is therefore distributed via an external link.)
 
+Additional Release (Video Features):
+We further release the extracted video features of T-MED through Baidu Netdisk: T-MED-video (Link: https://pan.baidu.com/s/1Q5ulFz4bRvu4Hpiqv_SxYw?pwd=2111
+, Extraction code: 2111).
+The video representations are extracted using a locally hosted HuggingFace-compatible VideoMAEv2-based video encoder, where each sample is processed from 16 uniformly sampled frames and converted into a fixed-dimensional representation by mean pooling the token-level features . The released file is organized at the sample level and includes the following fields: name, split, subject, subject_id, stage, stage_id, label, label_id, video_feat, and video_path. 
+These video features are intended to be used together with the released text, audio, instructional, and label information for multimodal teacher sentiment analysis research.   
+
 
